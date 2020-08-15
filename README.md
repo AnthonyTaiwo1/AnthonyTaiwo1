@@ -1,11 +1,11 @@
-### Hi there 👋
-
+### Hi there, My name is Anthony Taiwo 👋
+I am a recent Electrical and Electronic Engineering graduate with a passion for tech. I possess strong analytical and technical skills gained through creating innovative designs, circuit design, testing tools, power electronic systems and software development. I have some knowledge of many programming languages these include C++, HTML,CSS, JavaScript, VHDL and microprocessor. I have made projects using these software languages that can be found on my GitHub profile. I am a highly driven, optimistic individual with a passion for achieving results. I aim to one day work in the engineering or tech industries.
 <!--
 **AnthonyTaiwo1/AnthonyTaiwo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+j
+- 🔭 I’m currently working on ...hhhhgh
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
